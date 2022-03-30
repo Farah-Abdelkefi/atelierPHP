@@ -7,6 +7,6 @@ setTimeout(()=>{
         z.innerHTML="Veuillez actualiser la page si vous voulez voter";
         y.appendChild(z);
     }
-    ,2000
+    ,120000
 
 )
